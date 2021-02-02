@@ -24,7 +24,7 @@ export class TicketService {
     }
   ];
 
-  storedUsers: User[] = [{ id: 111, name: 'Divya' }, { id: 112, name: 'kasu' }];
+  storedUsers: User[] = [{ id: 111, name: 'Divya' }, { id: 112, name: 'Kasu' }];
 
   lastId = 1;
 
